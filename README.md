@@ -24,7 +24,7 @@ npm run dev
 
 npm run build
 
-##Funcionalidades, Pendientes y Limitaciones
+## Funcionalidades, Pendientes y Limitaciones
 Funcionalidades completadas: Pantalla de listado con tabla Quasar, búsqueda por nombre o teléfono, filtro combinado por estado, paginación conectada a la API, creación y edición mediante diálogo reutilizable, pantalla de detalle con historial de seguimientos ordenados del más reciente al más antiguo, formulario para registrar seguimientos, acción de cierre con confirmación, restricción visual de edición y nuevos seguimientos en prospectos cerrados, manejo de estados de carga, resultados vacíos, errores de validación de backend vinculados a campos y banners flotantes para errores de red o comunicación.
 
 ## Pendientes: Ninguno dentro del alcance establecido.
